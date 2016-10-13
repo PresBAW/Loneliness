@@ -1,0 +1,6 @@
+// Notes for Chris
+
+1. It seems the project name (probably what's listed in the title bar of the webpage upon loading or in the plugin loader
+screen) is probably listed in the project.oep file under the <project><name>Loneliness</name></project> subtag.
+
+2. 
